@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Front end developer","C++ Programmer","Baker", "Blogger", "Designer", "Learner"],
+        strings: ["I love you","Never leave you", "I am your dudu", "I am sorry that I abused you", "Please forgive me"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
@@ -48,7 +48,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Front end developer","C++ Programmer","Baker", "Blogger", "Designer", "Learner"],
+        strings: ["Front end developer","I love you","Never leave you", "I am your dudu", "I am sorry that I abused you", "Please forgive me"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
